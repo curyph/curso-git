@@ -13,6 +13,8 @@ namespace Projeto_Teste
             Console.WriteLine("Olá Mundo");
             Console.WriteLine("Bom dia!");
 
+            Console.WriteLine("Teste subindo git");
+            Console.WriteLine("-----------------");
             Console.Read();
         }
     }
